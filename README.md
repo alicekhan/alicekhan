@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alicekhan</h1>
 <h3 align="center">A passionate java developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicekhan" alt="alicekhan" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=alicekhan" alt="alicekhan" /> </p>
 
 - 🔭 I’m currently working on [invoices4us](http://invoices4us.com/)
 
