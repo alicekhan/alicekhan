@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **java, spring boot, jdbc, deployment, sql**
 
-- 📫 Reach me by email **alicekhan7011@gmail.com**
+- 📫 Reach me by **alicekhan7011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
